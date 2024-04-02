@@ -34,9 +34,9 @@ pip install langchain langchain_core langchain_openai pydantic pandas python-dot
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/healthcare-data-extraction.git
+    git clone https://github.com/n-mhatre/Zero-Shot-Healthcare-Medical-Data-Extraction-with-LLMs.git
     
-    cd healthcare-data-extraction
+    cd Zero-Shot-Healthcare-Medical-Data-Extraction-with-LLMs
     ```
 
 2. **Environment Variables:**    
@@ -48,6 +48,7 @@ pip install langchain langchain_core langchain_openai pydantic pandas python-dot
     Ensure your input data is in the correct format. The system expects a JSON file (transcripts.json) containing the doctor-patient conversations.
 
 </br>
+
 Feel free to refer `Data_Extraction_Code.ipynb` file.
     
 ## 📝 Sample Inputs and Outputs 
@@ -85,4 +86,4 @@ D: Good morning, Amanda. How can I help you today?</br>P: Hi, Doctor. I've been 
 
 </br>
 Feel free to connect if you have any questions or want to discuss the project further! 🌐
-https://www.linkedin.com/in/nishant-mhatre/\Row number: 81\Row number: 59\Row number: 36\Row number: 90\Row number: 7\Row number: 29\Row number: 95\Row number: 100\Row number: 20\Row number: 50
+https://www.linkedin.com/in/nishant-mhatre/
