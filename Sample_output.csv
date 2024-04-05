@@ -1,0 +1,99 @@
+is_conversation_format,name,age,condition,symptoms,precautions,medications,summary,id,original_msg
+False,Don Hicks,81,Fungal infection,"Dischromic patches, nodal skin eruptions, skin rash","Bathing twice a day, using detol or neem in the bathing water, keeping the infected area dry, using clean cloths",None,"Mr. Don Hicks, 81 years old, presented with a fungal infection showing symptoms of dischromic patches, nodal skin eruptions, and skin rash. Advised precautions for bathing and keeping the infected area dry. No medication prescribed.",2055,"During the visit, I examined Mr. Don Hicks, who is 81 years old and presented with a fungal infection. He had dischromic patches, nodal skin eruptions, and skin rash as symptoms. Upon examination, I confirmed the diagnosis of fungal infection. I advised Mr. Hicks to take precautions such as bathing twice a day, using detol or neem in the bathing water, keeping the infected area dry, and using clean cloths. I did not prescribe any medication for him."
+False,Tina Will,69,heart attack,"chest pain, vomiting, breathlessness",advised to seek immediate medical attention,None,"Tina Will, a 69-year-old patient, presented with symptoms of chest pain, vomiting, and breathlessness. She was diagnosed with a heart attack and advised to seek immediate medical attention. No medications were prescribed, and she was recommended to follow up with her primary care physician for ongoing treatment and management.",291,"During the visit, I examined Tina Will, a 69-year-old patient who presented with symptoms of chest pain, vomiting, and breathlessness. After conducting a thorough examination, I determined that Tina was suffering from a heart attack. As a result, I advised her to seek immediate medical attention. Since there were no precautions that could be taken to prevent a heart attack, I did not prescribe any medication. Instead, I recommended that Tina follow up with her primary care physician for ongoing treatment and management of her condition."
+True,Tommie,45,Hypertension,"Dizziness, unsteadiness on feet, headaches","Practice meditation, take salt baths, reduce stress, ensure proper sleep, monitor blood pressure regularly",None,"Patient Tommie, 45 years old, presenting with symptoms of dizziness, unsteadiness on feet, and headaches. Diagnosed with hypertension. Advised to practice meditation, take salt baths, reduce stress, ensure proper sleep, and monitor blood pressure regularly. No medications prescribed at this time.",102,"D: Good morning Tommie, how can I help you today?
+P: Good morning, Doctor. I've been experiencing some strange symptoms lately.
+D: Can you tell me what kind of symptoms you're experiencing?
+P: Sure, I've been feeling dizzy and unsteady on my feet, and I've also been having headaches.
+D: Interesting. Based on your age and the symptoms you're experiencing, it could be hypertension.
+P: Hypertension? What's that?
+D: Hypertension, also known as high blood pressure, is when the force of blood against your arteries is consistently too high.
+P: Oh, I see. And what can I do about it?
+D: To manage hypertension, I recommend that you practice meditation, take salt baths, reduce stress, and make sure you're getting proper sleep. In addition, it's important that you monitor your blood pressure regularly.
+P: Okay, I can do that. Do I need any medication?
+D: At this point, it doesn't seem like medication is necessary. But if your symptoms worsen or don't improve with the precautions I've suggested, we may need to reconsider.
+P: Alright, I'll give it a try and let you know how it goes. Thank you, Doctor.
+D: You're welcome, Tommie. Don't hesitate to contact me if you have any further questions or concerns."
+True,Chris,-1,Jaundice,"Losing weight, abdominal pain, yellow skin","Drink plenty of water, consume milk thistle, eat fruits and high fiberous food",None,"The patient, Chris, is experiencing symptoms of jaundice including weight loss, abdominal pain, and yellow skin. The doctor advised him to follow precautions such as drinking water, consuming milk thistle, and eating fruits and high fiberous food. No medications were prescribed at this time.",2966,"D: Good morning, Chris. I understand you've been experiencing some health issues lately. Can you tell me about your symptoms?
+
+P: Yes, Doctor. I've been losing weight, have a lot of abdominal pain, and my skin has turned yellow.
+
+D: I see. Based on your symptoms, I believe you have jaundice. 
+
+P: What causes jaundice, Doctor?
+
+D: Jaundice can be caused by various reasons such as liver problems, bile duct issues, or blood disorders. In your case, I think it's due to liver problems.
+
+P: How can I treat jaundice, Doctor?
+
+D: To treat jaundice, you should drink plenty of water, consume milk thistle, eat fruits and high fiberous food, and take medication if prescribed. In your case, I don't think medication is necessary, and these lifestyle changes should help.
+
+P: Can you explain what milk thistle is, Doctor?
+
+D: Sure, milk thistle is a herb that helps improve liver function. It contains a compound called silymarin, which has been shown to support liver health.
+
+P: Thank you, Doctor. I'll try to follow these precautions and see if my symptoms improve.
+
+D: That's great, Chris. Remember to come back for a follow-up appointment if your symptoms don't improve or worsen. Have a great day!"
+True,Ernest,-1,Urinary tract infection (UTI),"Bladder discomfort, continuous feel of urine, bad-smelling urine","Drink plenty of water, increase vitamin C intake, drink cranberry juice, take probiotics",None,"Ernest presented with symptoms of UTI including bladder discomfort, continuous feel of urine, and bad-smelling urine. Advised to follow precautions and return if symptoms worsen or do not improve within a week.",2438,"D: Hi Ernest, I understand you're here for a check-up. Can you please tell me what symptoms you've been experiencing?
+P: Hi doc, I've been having bladder discomfort, a continuous feel of urine, and my urine smells really bad.
+D: Thank you for sharing that with me, Ernest. Based on your symptoms, I believe you have a urinary tract infection (UTI).
+P: Oh, is that what it is? I've never had one before.
+D: Yes, it's quite common. To help manage your symptoms, I recommend that you drink plenty of water, increase your vitamin C intake, drink cranberry juice, and take probiotics.
+P: Alright, I'll try those. And should I be taking any medication?
+D: At this point, medication isn't necessary. But make sure to come back if your symptoms worsen or if they don't improve within a week.
+P: Okay, I'll do that. Thank you so much, doctor.
+D: You're welcome, Ernest. Remember to follow up with me if you have any concerns."
+False,Carlos Murrieta,75,diabetes,"obesity, restlessness, lethargy","following a balanced diet, exercising regularly, scheduling follow-up appointments, regular blood glucose monitoring, quitting smoking, limiting alcohol consumption, consulting with a nutritionist",None,"Carlos Murrieta, a 75-year-old patient, presented with symptoms of obesity, restlessness, and lethargy. He was diagnosed with diabetes. The doctor advised him to follow a balanced diet, exercise regularly, schedule follow-up appointments, monitor blood glucose regularly, quit smoking, limit alcohol consumption, and consult with a nutritionist for a meal plan.",4271,"During the visit, I assessed Carlos Murrieta, a 75-year-old patient who presented with symptoms of obesity, restlessness, and lethargy. After a thorough physical examination, I reviewed his medical history and discussed his lifestyle and diet with him. Upon further investigation, it was determined that Mr. Murrieta had diabetes. 
+
+To help manage his diabetes, I advised Mr. Murrieta to take precautions such as following a balanced diet, exercising regularly, and scheduling follow-up appointments for ongoing monitoring. I also provided him with educational resources and discussed the importance of regular blood glucose monitoring. No medication was prescribed at this time. I emphasized the importance of lifestyle modifications to manage his diabetes and improve his overall health. I also encouraged him to quit smoking, if applicable, and to limit his alcohol consumption. I provided Mr. Murrieta with a list of healthy food choices and recommended that he consult with a nutritionist to create a meal plan that best suits his needs."
+False,Bernita Smith,35,psoriasis,"silver-like dusting on skin, joint pain, small dents in nails","wash hands with warm, soapy water, stop bleeding using pressure, take salt baths",LoKara,"Patient Bernita Smith, 35 years old, diagnosed with psoriasis. Experiencing symptoms of silver-like dusting on skin, joint pain, and small dents in nails. Advised to take precautions such as washing hands with warm, soapy water, stopping bleeding using pressure, and taking salt baths. Prescribed medication LoKara. Follow-up appointment scheduled in two weeks.",2441,"During the visit, I, the doctor, examined Bernita Smith, a 35-year-old patient who presented with symptoms of psoriasis, including a silver-like dusting on her skin, joint pain, and small dents in her nails. After conducting a thorough examination, I determined that the patient's condition was indeed psoriasis. To manage her symptoms, I advised her to wash her hands with warm, soapy water, stop any bleeding using pressure, and take salt baths. Additionally, I prescribed the medication LoKara to help alleviate her symptoms. Overall, I instructed the patient to continue with these precautions and to schedule a follow-up appointment in two weeks for further evaluation."
+False,Garrett Brown,64,Diabetes,"Weight loss, excessive hunger, lethargy","Maintain a balanced diet, exercise regularly, follow up with regular check-ups",None,"Patient Garrett Brown, 64 years old, diagnosed with diabetes based on symptoms of weight loss, excessive hunger, and lethargy. Advised to maintain a balanced diet, exercise regularly, and follow up with regular check-ups. No medication prescribed at this time.",1717,"During the visit, I, the doctor, determined that Garrett Brown, a 64-year-old patient, has diabetes based on his symptoms of weight loss, excessive hunger, and lethargy. I advised him to maintain a balanced diet, exercise regularly, and follow up with regular check-ups. Since medication is not necessary at this time, I did not prescribe any."
+True,Nathaniel,-1,gastroenteritis,"diarrhea, vomiting, sunken eyes","stop eating solid food, take small sips of water, rest, ease back into eating",None,"Patient Nathaniel is experiencing symptoms of gastroenteritis including diarrhea, vomiting, and sunken eyes. Doctor advised him to stop eating solid food, take small sips of water, rest, and ease back into eating. No medications prescribed. Follow-up appointment needed if symptoms worsen or don't improve.",3206,"D: Nathaniel, I understand you've been feeling unwell. Can you tell me what symptoms you've been expe,riencing?
+
+P: Yesss, Doctorrr. I've had diarrhe<a and vomitting for the past two days. I also have very sunken eyeesss.
+
+D: Thank you for letting me know. Based on your symptoms, I believe you have gastroenteritis. It's important that you stop eating solid food for a while and try taking small sips of wa<ter. You should also rest and ease back into eating when you feel better.
+
+P: Okkkay, I understand. Is there anyyything else I should dooo?
+
+D: Nottt at the moment. If your symptoms worsen or don't improve within a few days, please come back for a follow-up appointment.
+
+P: Thank you, Doctor. I'll be sure to follow your advice.
+
+D: You're welcome, Nathaniel. Please get better soon."
+True,Jose,-1,Hypoglycemia,"Feeling tired, irritable, sweating a lot","Lie down on side, check pulse regularly, drink sugary drinks or snacks, monitor blood sugar levels",None,"Jose is experiencing symptoms of hypoglycemia such as tiredness, irritability, and excessive sweating. The doctor advised him to take precautions like lying down, checking pulse, consuming sugary snacks, and monitoring blood sugar levels. No medications were prescribed at this time.",742,"D: Good morning, Jose. How are you feeling today?
+P: I'm feeling really tired and irritable. I've been sweating a lot recently too.
+D: Jose, based on your symptoms, I believe you may have hypoglycemia. Your blood sugar levels are low, which is causing you to feel this way.
+P: What can I do to feel better?
+D: I would suggest that you lie down on your side to help you feel more comfortable. You should also check your pulse regularly to make sure it's stable. Additionally, it would be best to drink some sugary drinks or snacks to help raise your blood sugar levels.
+P: What about medication?
+D: At this point, I don't believe medication is necessary. However, if your symptoms persist or worsen, we may need to consider other options. In the meantime, follow the precautions I've recommended, and make sure to monitor your blood sugar levels regularly. Is there anything else you'd like to ask or discuss?"
+True,Amanda,-1,Urinary tract infection,"Frequent urination, painful urination, discomfort in bladder","Drink plenty of water, increase vitamin C intake, drink cranberry juice, take probiotics",None,"Patient Amanda is experiencing symptoms of a urinary tract infection. Doctor advised precautions such as drinking water, increasing vitamin C intake, and taking probiotics. No medications were prescribed. Patient will follow advice and return for a follow-up if symptoms persist or worsen.",3728,"D: Good morning, Amanda. How can I help you today?
+P: Hi, Doctor. I've been feeling a lot of urine and it hurts when I pee. I also feel discomfort in my bladder.
+D: I see. Based on your symptoms, it seems like you might have a urinary tract infection.
+P: Yes, that's what I thought.
+D: To help manage the symptoms, I would recommend that you drink plenty of water, increase your vitamin C intake, drink cranberry juice, and take probiotics. As for medication, I don't think it's necessary in this case.
+P: Thank you, Doctor. I'll make sure to follow your advice. 
+D: You're welcome, Amanda. If the symptoms persist or worsen, please don't hesitate to come back for a follow-up appointment. Take care."
+True,Lucy,-1,Migraines,"Headaches, blurry and distorted vision, increased appetite, visual disturbances such as auras or flashes of light","Practicing meditation, reducing stress levels, using polarized glasses to reduce glare and brightness",Fiorinal,"Lucy is experiencing symptoms of migraines including headaches, blurry vision, increased appetite, and visual disturbances. The doctor advised precautions such as meditation, stress reduction, and using polarized glasses. Fiorinal was prescribed as medication. Follow-up appointment recommended if symptoms worsen or do not improve within a week.",3414,"D: Good morning, Lucy. How can I help you today?
+
+P: Hi, Doctor. I've been having these headaches that make my vision blurry and distorted. 
+
+D: I see that you have a history of migraines, Lucy. Based on your symptoms, it seems like you might be experiencing another one.
+
+P: Yes, that's right. And my appetite has increased a lot lately too. It's making me feel very hungry all the time.
+
+D: Those are common symptoms of migraines. Additionally, you might experience visual disturbances such as auras or flashes of light.
+
+P: Yes, that's also happening to me. It's really frustrating and uncomfortable.
+
+D: I understand, Lucy. To help manage your migraines, I would recommend practicing meditation and reducing your stress levels. You can also use polarized glasses when you're outside to help reduce glare and brightness.
+
+P: Ok, I'll try that. And what about medication?
+
+D: I would prescribe Fiorinal for you to take as needed for your migraines. Make sure to take it at the first sign of a headache to get the best results.
+
+P: Alright, thank you, Doctor.
+
+D: You're welcome, Lucy. If your symptoms worsen or don't improve within a week, please come back for a follow-up appointment."
